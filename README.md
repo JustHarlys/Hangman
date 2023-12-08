@@ -1,0 +1,3 @@
+- To make this game work, you need to keep both files on the same Folder
+- You got a list of words on the words file
+- On the hangman file you can change the number of lives or opportunities you have to guess the word with the variable 'lives = x' (being x whatever number)
